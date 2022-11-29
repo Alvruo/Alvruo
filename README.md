@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Álvaro Oliveira">
 
 <p align="left"> 
-  Olá meu nome é Álvaro Guilherme de Oliveira, <strong>sou desenvolvedor front-end e back-end.</strong>.<br>
-  Estou cursando Desenvolvimento Web Full Stack na Trybe.
+  Olá meu nome é Álvaro Oliveira, <strong>sou desenvolvedor full stack. Atuando atualmente com as stacks React, Typescript e Node.</strong>.<br>
+  Estou cursando Desenvolvimento Web na Trybe.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, PHP.</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, PHP e Typescript..</strong>
 </p>
 
 <p align="left">
@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Como entrar em contato: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:alvruoliveira@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alvruoliveira@gmail.com" /></a>
 
 </a>
