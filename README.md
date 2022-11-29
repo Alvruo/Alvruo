@@ -20,6 +20,9 @@
 <p align="left">
   <a href="mailto:alvruoliveira@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alvruoliveira@gmail.com" /></a>
+  
+  <a href="https://www.linkedin.com/in/alvruo/" alt="LinkdIn"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvruo/"/></a>
 
 </a>
 </p>  
